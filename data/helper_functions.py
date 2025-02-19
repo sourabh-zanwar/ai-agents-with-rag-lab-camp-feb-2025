@@ -1,4 +1,4 @@
-groq_key = "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"
+groq_key = ""
 
 import random
 import string
