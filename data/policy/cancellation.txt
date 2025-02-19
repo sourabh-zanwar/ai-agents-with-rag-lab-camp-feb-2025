@@ -1,0 +1,27 @@
+# Cancellation Policy
+
+Cancellation charges depend on ticket class and the time of cancellation.
+
+## Business Class Tickets:
+
+Fully refundable if canceled at least 48 hours before departure.
+
+A 10% cancellation fee applies for cancellations within 48 hours.
+
+No refund for no-shows.
+
+## Flexi Tickets:
+
+Fully refundable if canceled at least 72 hours before departure.
+
+A 20% cancellation fee applies within 72 hours.
+
+No refund if canceled within 24 hours of departure.
+
+## Economy Tickets:
+
+50% refund if canceled at least 7 days before departure.
+
+25% refund if canceled between 7 days and 24 hours before departure.
+
+No refund for cancellations within 24 hours.

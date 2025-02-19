@@ -1,0 +1,33 @@
+# Ticket Modification Policy
+
+Modification policies vary by ticket class. Changes to flight schedules are subject to availability.
+
+## Business Class Tickets:
+
+Can be rescheduled up to 2 hours before departure.
+
+No rescheduling fee applies if modified at least 24 hours before departure.
+
+Rescheduling within 24 hours incurs a 10% ticket fare charge.
+
+Changes can be made online, via mobile app, or customer service hotline.
+
+## Flexi Tickets:
+
+Can be rescheduled up to 6 hours before departure.
+
+No rescheduling fee if modified at least 48 hours before departure.
+
+A 15% ticket fare charge applies for modifications within 48 hours.
+
+Rescheduling is allowed only once per ticket without additional charges.
+
+## Economy Tickets:
+
+Can be rescheduled up to 24 hours before departure.
+
+A 20% rescheduling fee applies to all modifications.
+
+No changes allowed within 24 hours of departure.
+
+Rescheduling must be done via the airline’s website or authorized agents.

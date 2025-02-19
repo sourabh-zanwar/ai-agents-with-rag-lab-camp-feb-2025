@@ -1,0 +1,11 @@
+# Booking Policy
+
+Passengers can book flight tickets up to 12 months in advance.
+
+Last-minute bookings are allowed up to 3 hours before the scheduled departure.
+
+A valid government-issued ID is required for booking confirmation.
+
+Payments must be fully completed at the time of booking; no partial payments are accepted.
+
+Passengers will receive a confirmation email and ticket details upon successful booking.
